@@ -1,7 +1,7 @@
 # ERR_Player
 
 Shows Estonia TV channels:
-  ETV
-  ETV2
-  ETV+
+  ETV  <br />
+  ETV2 <br />
+  ETV+ <br />
 
